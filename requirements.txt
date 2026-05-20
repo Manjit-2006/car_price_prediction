@@ -7,4 +7,3 @@ matplotlib
 plotly
 seaborn
 sqlalchemy
-sqlite3
